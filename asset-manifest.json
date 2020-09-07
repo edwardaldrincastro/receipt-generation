@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/receipt-generation/static/css/main.5f361e03.chunk.css",
+    "main.js": "/receipt-generation/static/js/main.a62ad08c.chunk.js",
+    "main.js.map": "/receipt-generation/static/js/main.a62ad08c.chunk.js.map",
+    "runtime-main.js": "/receipt-generation/static/js/runtime-main.63980370.js",
+    "runtime-main.js.map": "/receipt-generation/static/js/runtime-main.63980370.js.map",
+    "static/js/2.e8f80d8a.chunk.js": "/receipt-generation/static/js/2.e8f80d8a.chunk.js",
+    "static/js/2.e8f80d8a.chunk.js.map": "/receipt-generation/static/js/2.e8f80d8a.chunk.js.map",
+    "index.html": "/receipt-generation/index.html",
+    "precache-manifest.fc3cb38b7287ceaf6618a49510f90e8f.js": "/receipt-generation/precache-manifest.fc3cb38b7287ceaf6618a49510f90e8f.js",
+    "service-worker.js": "/receipt-generation/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/receipt-generation/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e8f80d8a.chunk.js.LICENSE.txt": "/receipt-generation/static/js/2.e8f80d8a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/receipt-generation/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63980370.js",
+    "static/js/2.e8f80d8a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a62ad08c.chunk.js"
+  ]
+}
